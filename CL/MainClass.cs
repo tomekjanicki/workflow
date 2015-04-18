@@ -5,7 +5,6 @@
 
         public void Method1()
         {
-            //other branch
         }
     }
 }
