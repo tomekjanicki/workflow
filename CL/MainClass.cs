@@ -6,6 +6,7 @@
         public void Method1()
         {
             //other branch
+            //b6c1
         }
     }
 }
