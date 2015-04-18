@@ -5,12 +5,6 @@
 
         public void Method1()
         {
-            //k1
-
-            //k2 xx
-
-            //b3k1
-            //b3k2
         }
     }
 }
