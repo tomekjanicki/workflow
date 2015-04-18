@@ -6,6 +6,7 @@
         public void Method1()
         {
             //b6c1
+            //b6c2
         }
     }
 }
